@@ -45,3 +45,7 @@ textarea {
     margin: 100px,50px,30px,50px;
     text-transform: uppercase;
 }
+.invisivel
+{
+    display:none;
+}
